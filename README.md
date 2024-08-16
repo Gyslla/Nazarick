@@ -1,0 +1,1 @@
+Python files used in my thesis research on process mining, to calculate the regression of a data sample, in order to estimate the analysis time required depending on the number of events in a dataset and the number of columns. Here you will also find the outputs obtained from the experiment.
